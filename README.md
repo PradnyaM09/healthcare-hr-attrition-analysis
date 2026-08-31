@@ -48,11 +48,11 @@ GROUP BY department;
 
 ## Recommendations
 
-1. Investigate Housekeeping specifically — its attrition isn't explained by overtime, so the driver is likely pay, shift conditions, or department-specific management practices
-2. Strengthen first-2-year onboarding — new hires leave at nearly 1.5x the rate of tenured staff
-3. Shift recruitment spend toward referral programs over agency/contract staffing
-4. Monitor and cap overtime where feasible, outside Housekeeping
-5. Use satisfaction pulse surveys as an early warning signal for at-risk employees
+1. Investigate Housekeeping specifically as its attrition is not explained by overtime, so the driver is likely pay, shift conditions, or department-specific management practices.
+2. Strengthen first 2 year onboarding, new hires leave at nearly 1.5x the rate of tenured staff.
+3. Shift recruitment spend toward referral programs over agency/contract staffing.
+4. Monitor and cap overtime where feasible, outside Housekeeping.
+5. Use satisfaction pulse surveys as an early warning signal for at risk employees.
 
 ---
 
