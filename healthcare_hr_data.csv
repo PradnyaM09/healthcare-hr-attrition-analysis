@@ -1,0 +1,351 @@
+employee_id,name,gender,department,job_role,shift,hire_date,termination_date,attrition,salary,recruitment_source,overtime_hours_per_month,satisfaction_score,performance_rating,promotions_count,manager_id
+1000,Denise Walker,Female,Pharmacy,Pharmacist,Evening,2024-06-21,2025-03-01,Yes,72700,Referral,16,5,2,0,1241
+1001,Stephanie Miller,Female,Lab/Pathology,Medical Lab Technician,Evening,2025-01-19,,No,89200,Agency/Contract Staffing,14,4,3,0,1117
+1002,Daniel Wagner,Male,Housekeeping,Housekeeping Staff,Evening,2023-03-03,,No,33600,Job Board,13,1,3,0,1003
+1003,Matthew Gardner,Male,Housekeeping,Housekeeping Supervisor,Evening,2020-10-18,,No,35800,Internal Transfer,7,5,3,0,
+1004,Rhonda Smith,Female,Lab/Pathology,Pathologist,Day,2021-12-16,,No,93000,Agency/Contract Staffing,20,1,3,0,1214
+1005,Gina Moore,Female,Emergency,ER Physician,Evening,2025-06-20,,No,95800,Agency/Contract Staffing,7,1,4,0,1339
+1006,Anna Davis,Female,Radiology,MRI Technologist,Night,2026-05-18,2026-07-04,Yes,75800,Agency/Contract Staffing,9,1,3,0,1283
+1007,Renee Blair,Female,Nursing,Nursing Assistant,Night,2025-09-20,2025-12-30,Yes,82900,Job Board,3,4,5,0,1311
+1008,Mrs. Kristen Calderon,Female,Housekeeping,Housekeeping Supervisor,Evening,2023-11-08,2024-03-29,Yes,37800,Job Board,0,2,4,0,1235
+1009,Laura Bush,Female,Pharmacy,Pharmacy Technician,Evening,2024-05-06,,No,97800,Job Board,24,4,4,2,1241
+1010,Dylan Miller,Male,Administration,HR Coordinator,Evening,2020-11-29,,No,55700,Nursing School Partnership,6,4,3,0,
+1011,Diana Reid,Female,Billing/Records,Medical Biller,Evening,2022-01-12,,No,48600,Referral,6,5,4,0,1287
+1012,Christine Adams,Female,Pharmacy,Pharmacy Technician,Day,2022-10-28,2025-08-18,Yes,113300,Internal Transfer,11,1,3,0,1122
+1013,Lisa Jackson,Female,Billing/Records,Billing Supervisor,Night,2026-04-03,,No,46100,Referral,10,5,3,0,1287
+1014,Jamie Mayo,Female,Physical Therapy,Physical Therapist,Evening,2025-01-03,,No,83500,Job Board,0,4,2,0,1089
+1015,Melinda Cameron,Female,Pharmacy,Pharmacist,Day,2024-06-22,2025-12-01,Yes,77600,Agency/Contract Staffing,17,1,5,0,1122
+1016,Andrew Stewart,Male,Lab/Pathology,Pathologist,Night,2025-04-16,2025-12-12,Yes,77100,Nursing School Partnership,16,2,2,0,1117
+1017,Terri Walter,Female,IT/Facilities,IT Support Specialist,Evening,2022-03-30,2023-05-26,Yes,53900,Internal Transfer,0,4,4,1,1044
+1018,Jennifer Rocha,Female,Lab/Pathology,Medical Lab Technician,Day,2022-07-11,,No,65200,Job Board,14,5,2,0,1117
+1019,David Hoffman,Male,Billing/Records,Medical Biller,Day,2023-05-22,2025-08-28,Yes,41600,Nursing School Partnership,5,4,5,0,1212
+1020,Stephanie Ross,Female,Physical Therapy,PT Assistant,Day,2022-03-19,,No,85600,Agency/Contract Staffing,10,4,3,0,1089
+1021,Ms. Ann Williams MD,Female,Housekeeping,Housekeeping Staff,Day,2021-12-14,2023-01-28,Yes,41200,Nursing School Partnership,0,5,3,2,1003
+1022,Jay Brown,Male,Pharmacy,Pharmacist,Day,2024-05-26,,No,96300,Internal Transfer,6,1,3,0,1122
+1023,Ms. Tricia Valencia MD,Female,Nursing,Nurse Practitioner,Day,2022-12-04,,No,83500,Job Board,7,3,3,1,1134
+1024,Kimberly Adams,Female,Radiology,Radiologist,Night,2024-12-16,2025-11-20,Yes,64800,Referral,13,1,5,0,1283
+1025,Jeffrey Chavez,Male,Administration,Office Administrator,Night,2024-06-24,,No,80100,Referral,28,3,2,0,1010
+1026,Deborah Mason,Female,Nursing,Charge Nurse,Evening,2026-05-10,,No,82200,Referral,7,1,2,0,1311
+1027,Sheila Evans,Female,Emergency,ER Physician,Evening,2021-09-16,2025-08-31,Yes,98400,Job Board,15,5,4,0,1339
+1028,Brittany Farmer,Female,Lab/Pathology,Lab Technologist,Evening,2024-06-20,,No,58800,Referral,3,1,5,0,1214
+1029,Joseph Smith,Male,Emergency,ER Technician,Night,2023-11-15,,No,106700,Agency/Contract Staffing,26,2,5,2,1277
+1030,Timothy Koch,Male,Nursing,Nurse Practitioner,Night,2022-07-31,,No,83400,Job Board,14,2,4,0,1114
+1031,Amy Humphrey,Female,Nursing,LPN,Day,2025-08-16,,No,90500,Campus Recruiting,3,2,1,0,1279
+1032,Katelyn Jones,Female,Billing/Records,Records Clerk,Day,2026-04-25,2026-06-27,Yes,49600,Nursing School Partnership,11,1,2,2,1212
+1033,Carl Alvarez,Male,Nursing,LPN,Day,2025-03-13,2025-05-04,Yes,75300,Agency/Contract Staffing,4,5,2,1,1114
+1034,Shane Henderson,Male,Nursing,Nursing Assistant,Evening,2023-12-08,,No,85800,Internal Transfer,10,3,4,0,1294
+1035,Monica Harris,Female,Lab/Pathology,Pathologist,Day,2021-11-27,,No,67700,Job Board,14,2,3,0,1214
+1036,Miss Jessica Holmes MD,Female,Pharmacy,Pharmacy Technician,Day,2022-07-04,,No,81700,Campus Recruiting,11,5,4,0,1122
+1037,Kevin Hall,Male,Lab/Pathology,Pathologist,Day,2021-12-26,,No,79300,Referral,18,5,3,1,1214
+1038,Mark Perez,Male,Nursing,Charge Nurse,Day,2021-12-16,,No,94400,Referral,0,4,3,0,1311
+1039,Benjamin Young,Male,Radiology,Radiologic Technologist,Day,2026-01-24,,No,86600,Agency/Contract Staffing,1,1,4,0,1267
+1040,Carlos Walls,Male,Nursing,Charge Nurse,Night,2024-08-25,,No,64700,Referral,7,5,4,2,1294
+1041,Richard Aguirre,Male,IT/Facilities,Systems Analyst,Day,2024-01-23,,No,84500,Referral,10,4,3,0,1044
+1042,Jessica Henderson,Female,Pharmacy,Pharmacy Technician,Day,2021-10-11,,No,77900,Agency/Contract Staffing,1,1,3,0,1122
+1043,Megan Joyce,Female,Nursing,LPN,Day,2023-06-09,,No,62200,Nursing School Partnership,19,4,3,1,1294
+1044,Gina Hensley,Female,IT/Facilities,Systems Analyst,Day,2021-03-24,,No,64100,Referral,8,4,4,1,
+1045,Joan Henderson,Female,Radiology,MRI Technologist,Day,2022-02-16,,No,68800,Referral,0,4,4,1,1267
+1046,Thomas Ramos,Male,Physical Therapy,Physical Therapist,Day,2022-04-23,,No,90300,Job Board,10,3,3,0,1089
+1047,Amber Kidd,Female,Nursing,LPN,Day,2025-10-20,,No,60700,Referral,12,5,2,2,1279
+1048,Dr. Samuel Martin,Male,Housekeeping,Housekeeping Staff,Night,2025-08-25,,No,34000,Internal Transfer,17,2,3,0,1003
+1049,Jennifer Brown,Female,Administration,Office Administrator,Day,2023-07-20,2025-04-02,Yes,74900,Agency/Contract Staffing,8,1,4,0,1010
+1050,Deborah Bowers DDS,Female,Physical Therapy,PT Assistant,Day,2022-11-28,,No,62700,Agency/Contract Staffing,5,1,4,0,1089
+1051,Zachary Peters,Male,Housekeeping,Housekeeping Staff,Day,2023-03-05,,No,35700,Job Board,0,5,4,0,1003
+1052,Edward Novak,Male,Nursing,Nurse Practitioner,Evening,2024-12-11,,No,84800,Campus Recruiting,0,3,4,1,1114
+1053,Paul Brown,Male,Radiology,Radiologist,Evening,2024-02-10,,No,65900,Job Board,12,1,3,0,1283
+1054,Sarah Moore,Female,Emergency,ER Technician,Night,2024-02-21,2024-10-03,Yes,74500,Referral,16,5,4,0,1339
+1055,Cody Larson,Male,Nursing,LPN,Evening,2026-05-26,,No,84200,Agency/Contract Staffing,3,4,3,0,1262
+1056,Bryan Zamora,Male,Administration,Office Administrator,Evening,2024-09-07,,No,67100,Job Board,0,5,3,1,1010
+1057,Manuel Barnes,Male,Nursing,Charge Nurse,Day,2022-02-11,2025-07-02,Yes,93300,Agency/Contract Staffing,25,2,3,1,1144
+1058,Taylor Harris,Female,Billing/Records,Medical Biller,Day,2024-02-20,,No,43100,Job Board,7,1,5,0,1212
+1059,Jennifer Powers,Female,Pharmacy,Pharmacy Technician,Day,2024-12-06,2026-05-09,Yes,80600,Referral,5,4,3,0,1241
+1060,Paul Jones,Male,IT/Facilities,Facilities Technician,Evening,2022-06-08,,No,77500,Nursing School Partnership,14,3,2,0,1044
+1061,Dr. Angel Lewis MD,Female,Pharmacy,Pharmacist,Night,2023-05-21,,No,115000,Job Board,23,3,5,2,1122
+1062,Shawn Wood,Male,Pharmacy,Pharmacist,Night,2026-03-26,,No,76600,Referral,12,2,4,0,1241
+1063,Michele Carr,Female,Nursing,Charge Nurse,Day,2021-08-01,,No,90100,Job Board,5,1,4,1,1294
+1064,Adam Montoya,Male,Radiology,Radiologist,Day,2026-07-23,,No,66500,Referral,9,3,4,1,1283
+1065,Todd Taylor,Male,Nursing,Nurse Practitioner,Evening,2022-06-07,,No,77500,Internal Transfer,10,4,3,0,1294
+1066,Juan Nelson,Male,Pharmacy,Pharmacist,Day,2021-04-30,,No,111000,Internal Transfer,0,3,4,1,1122
+1067,Christina Walters,Female,Physical Therapy,Physical Therapist,Night,2024-04-06,2024-08-21,Yes,88500,Job Board,7,1,3,0,1190
+1068,Susan Mathis,Female,Emergency,ER Technician,Day,2022-03-22,,No,101600,Internal Transfer,2,3,3,0,1292
+1069,Destiny Smith,Female,Administration,Executive Assistant,Day,2021-03-11,,No,59500,Referral,6,4,4,1,1010
+1070,Deborah Figueroa,Female,Physical Therapy,PT Assistant,Night,2025-04-05,,No,61000,Nursing School Partnership,7,2,3,0,1089
+1071,Adam Jones,Male,Billing/Records,Medical Biller,Evening,2023-12-12,,No,52100,Referral,0,4,5,0,1287
+1072,Joshua Davenport,Male,IT/Facilities,Facilities Technician,Day,2025-12-07,,No,65300,Nursing School Partnership,14,2,5,0,1126
+1073,Cameron Parker,Male,Emergency,Paramedic,Night,2024-02-17,,No,78400,Job Board,11,5,4,0,1277
+1074,Shannon Nolan,Female,Lab/Pathology,Lab Technologist,Day,2026-01-10,,No,72000,Agency/Contract Staffing,19,2,4,0,1117
+1075,Brian Deleon,Male,Emergency,ER Technician,Evening,2021-11-24,,No,82400,Campus Recruiting,3,2,4,0,1277
+1076,Marc Moore,Male,IT/Facilities,Facilities Technician,Day,2025-12-09,2026-06-16,Yes,50600,Internal Transfer,15,2,2,1,1126
+1077,Vanessa Cochran,Female,Administration,Office Administrator,Night,2026-03-19,,No,60200,Campus Recruiting,24,3,4,1,1010
+1078,Norman Cook,Male,Pharmacy,Pharmacist,Evening,2025-12-03,2026-02-13,Yes,119900,Internal Transfer,8,1,4,1,1241
+1079,Sharon Cochran,Female,Physical Therapy,Physical Therapist,Day,2026-03-21,,No,72500,Referral,2,4,3,0,1190
+1080,Brian Brennan,Male,Nursing,Registered Nurse,Evening,2022-03-28,2022-05-16,Yes,83900,Job Board,0,2,3,0,1294
+1081,Robert Stevens,Male,Physical Therapy,Physical Therapist,Day,2025-10-14,,No,94600,Internal Transfer,8,3,4,0,1190
+1082,Crystal Johnson,Female,Nursing,LPN,Night,2022-06-20,,No,73300,Referral,11,3,1,1,1294
+1083,Sharon Rasmussen,Female,Lab/Pathology,Pathologist,Night,2021-10-17,,No,100300,Internal Transfer,18,4,5,1,1117
+1084,James Zavala,Male,Pharmacy,Pharmacy Technician,Day,2022-04-24,,No,78800,Referral,8,2,4,1,1122
+1085,Brian Waller,Male,Housekeeping,Housekeeping Staff,Evening,2023-11-08,2026-02-20,Yes,32900,Agency/Contract Staffing,0,3,3,0,1003
+1086,Mrs. Ashley Hamilton,Female,Lab/Pathology,Lab Technologist,Night,2021-09-16,2026-01-07,Yes,95700,Job Board,3,3,4,0,1117
+1087,Lisa Dixon,Female,IT/Facilities,Systems Analyst,Evening,2025-01-02,2025-11-02,Yes,83800,Job Board,9,5,3,1,1126
+1088,David Fletcher,Male,Radiology,Radiologist,Evening,2022-12-12,,No,70200,Job Board,4,2,3,0,1283
+1089,Joshua Ball,Male,Physical Therapy,Physical Therapist,Evening,2020-08-24,2020-12-08,Yes,76200,Agency/Contract Staffing,4,3,4,0,
+1090,Jackson Jones,Male,Billing/Records,Medical Biller,Day,2025-01-31,,No,40300,Campus Recruiting,0,5,3,1,1212
+1091,Erik Charles,Male,Administration,Executive Assistant,Evening,2024-08-14,,No,56200,Internal Transfer,11,3,3,0,1010
+1092,Ellen Ortiz,Female,Nursing,Nurse Practitioner,Evening,2024-12-14,2025-08-18,Yes,72600,Internal Transfer,5,1,5,1,1144
+1093,Bethany Fisher,Female,Nursing,Nurse Practitioner,Day,2023-01-19,,No,79800,Referral,10,1,4,0,1114
+1094,Stephanie Gilbert,Female,Emergency,ER Physician,Night,2026-04-11,,No,77500,Nursing School Partnership,32,5,3,0,1292
+1095,April Mitchell,Female,Nursing,Nurse Practitioner,Night,2022-06-11,,No,71300,Referral,12,2,3,0,1262
+1096,Matthew Marshall,Male,Housekeeping,Housekeeping Supervisor,Day,2023-03-20,,No,37900,Job Board,4,5,2,1,1003
+1097,John Santana,Male,Radiology,Radiologic Technologist,Day,2023-04-16,2023-10-28,Yes,70900,Nursing School Partnership,9,1,4,1,1267
+1098,Angela Robertson,Female,Pharmacy,Pharmacist,Day,2025-05-30,,No,97200,Agency/Contract Staffing,7,5,4,0,1241
+1099,Robert Potter,Male,Housekeeping,Housekeeping Staff,Night,2024-06-07,2025-10-14,Yes,39700,Agency/Contract Staffing,8,2,3,1,1003
+1100,Curtis Johnson,Male,Emergency,ER Nurse,Day,2024-09-02,2025-01-08,Yes,76500,Job Board,17,4,2,1,1339
+1101,Samuel Jones,Male,Housekeeping,Housekeeping Staff,Evening,2022-02-08,,No,35300,Nursing School Partnership,5,1,3,1,1003
+1102,Cheyenne Horton,Female,IT/Facilities,Systems Analyst,Day,2023-02-14,2025-04-06,Yes,62500,Job Board,14,2,4,0,1044
+1103,Matthew Smith,Male,Housekeeping,Housekeeping Staff,Night,2023-08-08,2026-04-15,Yes,41700,Campus Recruiting,18,5,4,0,1235
+1104,Ashley Coleman,Female,Nursing,Nurse Practitioner,Evening,2025-02-20,,No,71900,Job Board,20,5,4,0,1134
+1105,Kelly Williams,Female,Nursing,Nursing Assistant,Day,2021-09-10,,No,71900,Job Board,8,3,3,0,1279
+1106,Joyce Solis,Female,Physical Therapy,Physical Therapist,Day,2022-02-17,2025-01-31,Yes,83600,Agency/Contract Staffing,7,4,4,0,1190
+1107,Linda Dodson DVM,Female,Emergency,ER Nurse,Day,2024-08-21,,No,86900,Agency/Contract Staffing,17,3,2,0,1339
+1108,Jonathan Rivas,Male,Nursing,Charge Nurse,Night,2024-04-23,,No,70100,Agency/Contract Staffing,19,4,3,0,1262
+1109,Patrick Wells,Male,Nursing,Registered Nurse,Day,2023-12-03,,No,62700,Nursing School Partnership,13,3,4,0,1294
+1110,Mark Cannon,Male,Nursing,LPN,Day,2022-03-11,,No,88000,Job Board,0,3,2,1,1311
+1111,Denise Jones,Female,Lab/Pathology,Lab Technologist,Night,2023-10-06,,No,63700,Agency/Contract Staffing,6,2,2,0,1214
+1112,Emma Fernandez,Female,Physical Therapy,PT Assistant,Day,2022-05-08,,No,82600,Internal Transfer,10,3,3,0,1089
+1113,Michael Mccarthy,Male,Nursing,LPN,Evening,2021-06-20,,No,80300,Nursing School Partnership,10,5,4,2,1134
+1114,Joshua Perry,Male,Nursing,Registered Nurse,Evening,2021-01-08,2025-10-07,Yes,87900,Agency/Contract Staffing,3,1,3,0,
+1115,Summer Silva,Female,Nursing,Registered Nurse,Evening,2021-11-16,2025-02-28,Yes,76200,Nursing School Partnership,5,5,5,1,1144
+1116,Ralph James,Male,Emergency,ER Technician,Evening,2024-10-22,2026-02-12,Yes,85300,Internal Transfer,12,1,4,0,1277
+1117,Paul Castaneda,Male,Lab/Pathology,Pathologist,Day,2020-09-02,2024-04-16,Yes,67000,Job Board,0,4,4,0,
+1118,Nicole Payne,Female,Nursing,Registered Nurse,Evening,2026-05-10,,No,68800,Job Board,17,5,5,0,1262
+1119,Daniel Graham,Male,Physical Therapy,PT Assistant,Night,2024-04-03,,No,73700,Agency/Contract Staffing,2,5,4,0,1089
+1120,Meghan Powell,Female,Housekeeping,Housekeeping Staff,Evening,2020-10-23,2021-08-30,Yes,35600,Job Board,6,2,3,1,1235
+1121,Bethany Dean,Female,Nursing,Registered Nurse,Evening,2021-08-17,,No,85900,Nursing School Partnership,11,5,2,0,1279
+1122,Justin Johnson,Male,Pharmacy,Pharmacist,Day,2020-10-19,,No,107400,Campus Recruiting,9,4,2,0,
+1123,Joel Williams,Male,Pharmacy,Pharmacy Technician,Day,2024-06-28,,No,118100,Referral,5,4,5,0,1122
+1124,Gabriel Juarez,Male,Radiology,MRI Technologist,Night,2022-11-29,,No,71400,Nursing School Partnership,16,5,3,0,1267
+1125,Sandra King,Female,Lab/Pathology,Medical Lab Technician,Evening,2022-11-29,,No,58600,Nursing School Partnership,11,1,4,0,1117
+1126,Kimberly Cooke,Female,IT/Facilities,IT Support Specialist,Night,2021-02-16,,No,68000,Referral,13,1,3,0,
+1127,Richard Pearson,Male,Emergency,ER Nurse,Day,2022-09-26,,No,97200,Referral,9,3,4,0,1292
+1128,Curtis Smith,Male,Administration,HR Manager,Night,2025-02-27,,No,69600,Nursing School Partnership,15,2,5,0,1010
+1129,Maureen Elliott,Female,Nursing,Nurse Practitioner,Day,2021-07-20,,No,68300,Referral,7,5,3,0,1311
+1130,Pamela Jackson,Female,Pharmacy,Pharmacist,Evening,2021-12-11,,No,65100,Job Board,3,2,4,0,1122
+1131,Brian Weiss,Male,Billing/Records,Billing Supervisor,Evening,2024-04-11,,No,47400,Internal Transfer,14,4,5,0,1287
+1132,Alexander Collins,Male,Nursing,Registered Nurse,Day,2026-06-03,2026-08-06,Yes,68400,Referral,6,5,4,0,1262
+1133,Jennifer Espinoza,Female,Housekeeping,Housekeeping Staff,Night,2024-09-12,2026-01-23,Yes,41800,Agency/Contract Staffing,12,4,4,1,1235
+1134,Mark Garcia,Male,Nursing,Registered Nurse,Night,2021-02-03,,No,71000,Campus Recruiting,12,5,3,0,
+1135,Kyle Martinez,Male,Emergency,ER Nurse,Night,2025-04-08,,No,70600,Job Board,20,3,3,0,1277
+1136,Gregory Patterson,Male,Emergency,ER Physician,Evening,2026-07-15,,No,106600,Nursing School Partnership,0,4,2,0,1339
+1137,Glenn Atkinson,Male,Emergency,ER Nurse,Day,2022-11-10,,No,85100,Job Board,7,4,3,0,1339
+1138,Tonya Reid,Female,Pharmacy,Pharmacy Technician,Day,2025-07-26,2025-09-09,Yes,117100,Internal Transfer,16,3,4,1,1122
+1139,Jeffrey Gross,Male,IT/Facilities,Systems Analyst,Night,2025-08-09,2025-11-25,Yes,52700,Referral,18,3,3,1,1126
+1140,Robert Medina,Male,Billing/Records,Records Clerk,Day,2026-06-05,,No,40300,Referral,5,3,3,0,1212
+1141,Nicholas Adams,Male,Lab/Pathology,Pathologist,Day,2023-07-15,,No,89300,Agency/Contract Staffing,12,2,5,0,1117
+1142,Brandon Keith,Male,Nursing,Charge Nurse,Night,2025-09-29,,No,91500,Nursing School Partnership,12,3,4,1,1311
+1143,Lisa Gray,Female,Physical Therapy,Physical Therapist,Evening,2022-02-06,,No,82300,Internal Transfer,9,3,4,0,1190
+1144,Christopher Lewis,Male,Nursing,LPN,Day,2020-10-22,,No,72900,Nursing School Partnership,11,5,5,0,
+1145,Shirley Haynes,Female,Lab/Pathology,Lab Technologist,Night,2025-06-03,,No,103500,Referral,7,1,3,0,1214
+1146,Travis Miller,Male,Housekeeping,Housekeeping Staff,Day,2022-04-18,2025-04-14,Yes,32600,Internal Transfer,10,2,3,1,1003
+1147,Olivia Vaughn,Female,IT/Facilities,Facilities Technician,Day,2024-12-14,,No,61000,Internal Transfer,10,3,4,0,1126
+1148,Ricky Davis,Male,Nursing,Nursing Assistant,Evening,2024-07-05,,No,89500,Agency/Contract Staffing,0,1,2,1,1311
+1149,Eric Perkins,Male,Administration,Executive Assistant,Evening,2021-12-19,,No,80600,Referral,4,5,3,2,1010
+1150,Jeffery Reese,Male,Nursing,Registered Nurse,Evening,2023-06-23,,No,74500,Referral,3,2,3,1,1294
+1151,Denise King,Female,Billing/Records,Medical Biller,Night,2022-08-15,2023-03-31,Yes,39800,Nursing School Partnership,15,2,3,0,1212
+1152,Bryan Herrera,Male,Nursing,LPN,Night,2021-05-12,2024-04-30,Yes,93700,Job Board,23,5,4,0,1114
+1153,Cindy Washington,Female,Radiology,MRI Technologist,Evening,2025-03-17,,No,70600,Referral,2,4,5,0,1267
+1154,Joseph Campbell Jr.,Male,Nursing,Nursing Assistant,Night,2024-12-24,,No,76500,Agency/Contract Staffing,3,4,3,0,1294
+1155,Christopher Smith,Male,Emergency,ER Technician,Day,2021-10-20,,No,81300,Nursing School Partnership,5,3,2,0,1292
+1156,William Tran,Male,IT/Facilities,Systems Analyst,Evening,2023-11-03,,No,89000,Referral,0,3,4,0,1126
+1157,Sean Henry,Male,Lab/Pathology,Medical Lab Technician,Day,2024-10-26,,No,94600,Agency/Contract Staffing,15,5,3,0,1214
+1158,Julie Alexander,Female,Physical Therapy,PT Assistant,Day,2025-11-14,,No,85900,Internal Transfer,6,5,4,1,1190
+1159,Teresa Woods,Female,Emergency,ER Nurse,Night,2021-09-28,,No,100900,Nursing School Partnership,19,1,4,0,1277
+1160,Benjamin Soto,Male,Administration,Executive Assistant,Day,2025-07-26,2025-09-03,Yes,69800,Agency/Contract Staffing,10,2,2,1,1010
+1161,Kristine Torres,Female,Emergency,ER Physician,Day,2020-12-16,,No,87600,Referral,5,5,5,1,1277
+1162,Phillip Obrien,Male,Administration,HR Manager,Evening,2026-08-06,,No,64100,Internal Transfer,0,4,5,0,1010
+1163,Joseph Hayes,Male,Pharmacy,Pharmacist,Night,2025-05-18,,No,81400,Job Board,25,3,4,1,1122
+1164,Wanda Torres,Female,Emergency,Paramedic,Evening,2023-04-17,,No,97500,Internal Transfer,6,5,3,2,1339
+1165,Patrick Meza,Male,Nursing,Nurse Practitioner,Night,2024-05-12,,No,92300,Referral,22,3,4,0,1262
+1166,Matthew Moore,Male,Physical Therapy,PT Assistant,Day,2021-11-19,2023-10-26,Yes,80500,Agency/Contract Staffing,8,5,3,0,1190
+1167,April Hayes,Female,Nursing,Charge Nurse,Day,2021-09-05,,No,92500,Nursing School Partnership,17,4,4,1,1134
+1168,David Mann,Male,Housekeeping,Housekeeping Supervisor,Day,2024-03-13,2024-10-08,Yes,41100,Agency/Contract Staffing,15,5,4,1,1235
+1169,Michael Bradshaw,Male,Physical Therapy,Physical Therapist,Night,2024-11-07,,No,89300,Referral,18,4,3,1,1190
+1170,Matthew Peck,Male,IT/Facilities,IT Support Specialist,Day,2025-05-12,2026-02-24,Yes,87100,Agency/Contract Staffing,5,5,4,1,1044
+1171,Maria Kerr,Female,Nursing,Registered Nurse,Day,2023-03-10,2024-05-08,Yes,82700,Agency/Contract Staffing,14,2,1,0,1311
+1172,Carol Parker,Female,Pharmacy,Pharmacy Technician,Night,2025-08-05,2026-03-19,Yes,69800,Nursing School Partnership,12,2,3,1,1241
+1173,Donna Martinez,Female,Radiology,MRI Technologist,Night,2025-02-16,2026-02-22,Yes,81100,Job Board,11,1,3,0,1267
+1174,Terri Mason,Female,Radiology,Radiologic Technologist,Day,2024-10-07,,No,86600,Nursing School Partnership,7,1,4,1,1283
+1175,Amanda Reynolds,Female,Nursing,Charge Nurse,Evening,2023-08-07,,No,94600,Nursing School Partnership,3,3,3,0,1279
+1176,Anna Hayden,Female,Housekeeping,Housekeeping Staff,Evening,2022-07-27,,No,35600,Nursing School Partnership,11,5,5,0,1235
+1177,Trevor Key,Male,Emergency,ER Technician,Day,2025-08-25,2025-11-30,Yes,91200,Referral,7,1,5,0,1292
+1178,Amanda Avila,Female,Radiology,Radiologic Technologist,Evening,2024-09-01,2025-09-18,Yes,67900,Agency/Contract Staffing,13,1,4,0,1283
+1179,Thomas White,Male,Lab/Pathology,Medical Lab Technician,Night,2023-06-17,2025-05-03,Yes,101500,Referral,15,1,3,0,1214
+1180,John Davis,Male,Emergency,ER Technician,Day,2024-02-23,2025-09-25,Yes,82000,Internal Transfer,22,5,3,1,1339
+1181,Michael Hodge,Male,Lab/Pathology,Pathologist,Night,2022-09-22,,No,92100,Campus Recruiting,21,3,3,1,1214
+1182,Donna Landry,Female,IT/Facilities,IT Support Specialist,Evening,2022-08-13,,No,57500,Referral,15,1,4,0,1044
+1183,Jordan Edwards,Female,Nursing,Registered Nurse,Day,2025-07-07,,No,80900,Referral,1,1,3,0,1294
+1184,Mr. Jose Travis,Male,Housekeeping,Housekeeping Staff,Day,2022-07-29,,No,34300,Internal Transfer,15,5,4,0,1003
+1185,Jason Lopez,Male,IT/Facilities,Systems Analyst,Evening,2024-07-31,,No,61000,Job Board,4,5,5,1,1126
+1186,Mario Wolf,Male,Lab/Pathology,Medical Lab Technician,Night,2022-10-22,2025-11-26,Yes,87600,Internal Transfer,15,4,3,0,1214
+1187,Tanya Kim,Female,Nursing,Charge Nurse,Day,2021-11-09,,No,88200,Agency/Contract Staffing,3,1,4,2,1279
+1188,Valerie Lynch,Female,Emergency,Paramedic,Day,2024-10-28,,No,106500,Agency/Contract Staffing,10,2,2,0,1292
+1189,Krista Tran,Female,IT/Facilities,IT Support Specialist,Night,2022-01-27,2022-03-29,Yes,76900,Nursing School Partnership,12,2,3,1,1126
+1190,Thomas Murray Jr.,Male,Physical Therapy,Physical Therapist,Evening,2021-03-13,,No,92000,Agency/Contract Staffing,5,4,5,0,
+1191,Mitchell Hicks,Male,Radiology,Radiologist,Day,2025-08-17,,No,74400,Job Board,0,4,3,1,1267
+1192,Veronica Sanchez,Female,Physical Therapy,PT Assistant,Day,2022-04-11,,No,90200,Referral,8,5,5,0,1190
+1193,Thomas Romero,Male,Nursing,Charge Nurse,Day,2023-12-11,,No,77500,Campus Recruiting,7,3,3,1,1294
+1194,Desiree Tyler,Female,Radiology,Radiologist,Night,2025-11-28,,No,81100,Referral,1,5,5,2,1283
+1195,Jordan Hoover,Male,Billing/Records,Billing Supervisor,Day,2023-02-15,2025-10-05,Yes,40300,Referral,9,2,2,0,1212
+1196,Laurie Duarte,Female,Nursing,Nursing Assistant,Night,2022-05-02,,No,60600,Agency/Contract Staffing,8,1,4,0,1114
+1197,Joshua Reed,Male,Lab/Pathology,Pathologist,Evening,2023-07-29,2025-05-23,Yes,100200,Campus Recruiting,7,1,5,0,1117
+1198,Jordan Morris,Female,Housekeeping,Housekeeping Supervisor,Night,2023-12-12,2025-11-06,Yes,41600,Referral,10,2,3,1,1235
+1199,Kenneth Hall,Male,Nursing,LPN,Day,2021-10-08,,No,82300,Nursing School Partnership,9,2,2,1,1114
+1200,Natasha Thornton,Female,Lab/Pathology,Medical Lab Technician,Night,2025-04-15,2025-10-05,Yes,64200,Internal Transfer,21,5,3,0,1214
+1201,Matthew Hoover,Male,Nursing,Nurse Practitioner,Day,2025-07-02,,No,65000,Referral,3,4,5,0,1294
+1202,Andrew Shaw,Male,Administration,Office Administrator,Day,2026-07-08,,No,76600,Agency/Contract Staffing,7,3,2,0,1010
+1203,Shane Alexander,Male,Pharmacy,Pharmacy Technician,Night,2024-03-05,,No,99900,Job Board,12,4,4,0,1122
+1204,Miranda Ortiz,Female,Nursing,Nursing Assistant,Evening,2023-10-16,,No,81700,Referral,11,1,3,0,1294
+1205,Julie Costa,Female,Administration,Office Administrator,Day,2024-07-24,,No,82700,Referral,0,4,3,0,1010
+1206,Matthew Christian,Male,Radiology,Radiologist,Evening,2022-09-01,2025-01-25,Yes,58800,Job Board,6,5,4,1,1267
+1207,James Stewart,Male,Housekeeping,Housekeeping Staff,Evening,2025-09-30,2026-01-23,Yes,35800,Referral,10,2,3,0,1235
+1208,Shelia Johnson,Female,Nursing,Nurse Practitioner,Evening,2024-12-11,,No,68800,Referral,8,5,4,0,1262
+1209,Tammie Bright,Female,Billing/Records,Records Clerk,Night,2021-01-17,,No,52700,Job Board,22,4,3,1,1287
+1210,Brett Schultz,Male,Emergency,ER Physician,Evening,2025-02-11,,No,82900,Referral,4,4,5,1,1339
+1211,Michael Berger,Male,Housekeeping,Housekeeping Supervisor,Day,2025-11-13,2026-06-17,Yes,34000,Internal Transfer,17,5,3,1,1235
+1212,Edward Brooks,Male,Billing/Records,Medical Biller,Day,2020-11-29,,No,49800,Job Board,12,4,4,0,
+1213,Keith Sparks,Male,Administration,Executive Assistant,Night,2021-07-05,,No,84600,Referral,4,4,4,0,1010
+1214,Shelby Harvey,Female,Lab/Pathology,Lab Technologist,Evening,2021-08-28,,No,83500,Campus Recruiting,10,2,4,0,
+1215,Briana Murray,Female,Lab/Pathology,Pathologist,Evening,2022-01-30,,No,91900,Job Board,7,4,2,0,1214
+1216,Alexandra Ballard,Female,Radiology,MRI Technologist,Evening,2022-02-28,,No,80100,Agency/Contract Staffing,20,4,2,0,1267
+1217,Christopher Alexander,Male,IT/Facilities,Systems Analyst,Day,2026-01-15,2026-06-09,Yes,68200,Job Board,25,2,4,0,1044
+1218,Margaret Coleman,Female,Nursing,Registered Nurse,Night,2022-09-16,,No,89700,Referral,9,2,5,1,1114
+1219,Christina Cruz,Female,Emergency,ER Technician,Night,2022-02-19,,No,83200,Referral,7,2,3,0,1339
+1220,Kenneth Andrews,Male,Radiology,MRI Technologist,Day,2023-07-15,,No,64600,Agency/Contract Staffing,8,1,4,1,1283
+1221,William Barrett,Male,Emergency,ER Technician,Day,2026-08-03,,No,87000,Agency/Contract Staffing,0,3,4,0,1292
+1222,Melissa Garner,Female,Emergency,ER Technician,Evening,2022-04-14,2023-01-08,Yes,96800,Campus Recruiting,6,1,4,0,1339
+1223,Kathleen Strong,Female,Emergency,ER Physician,Evening,2020-12-06,,No,71200,Job Board,16,4,3,0,1292
+1224,Lawrence Gomez,Male,Lab/Pathology,Lab Technologist,Day,2022-05-09,,No,96600,Referral,0,1,4,0,1214
+1225,Michael Le,Male,Emergency,ER Technician,Day,2024-06-15,2024-08-17,Yes,87000,Campus Recruiting,0,1,4,1,1277
+1226,Mark Berger,Male,Nursing,Nurse Practitioner,Day,2024-08-03,,No,86000,Nursing School Partnership,9,1,4,0,1279
+1227,Jeremiah Riley,Male,Lab/Pathology,Medical Lab Technician,Night,2024-07-06,,No,63600,Job Board,6,4,2,1,1117
+1228,Edward Burgess,Male,IT/Facilities,IT Support Specialist,Day,2025-01-10,,No,82700,Job Board,0,2,3,1,1126
+1229,Joshua Mata,Male,Nursing,Charge Nurse,Night,2021-09-09,,No,88200,Campus Recruiting,21,5,3,0,1114
+1230,Sandra Scott,Female,Billing/Records,Records Clerk,Day,2023-10-27,,No,52600,Job Board,17,1,3,1,1212
+1231,Robert Francis,Male,Billing/Records,Billing Supervisor,Day,2025-08-01,,No,42200,Campus Recruiting,7,3,4,1,1287
+1232,Victor Taylor,Male,Nursing,Nurse Practitioner,Evening,2022-09-01,,No,62600,Job Board,11,4,4,0,1294
+1233,Nathaniel Whitney,Male,Radiology,MRI Technologist,Day,2026-06-07,,No,82800,Referral,0,1,4,0,1267
+1234,Jacob Gibbs,Male,IT/Facilities,Systems Analyst,Day,2026-06-09,,No,83000,Internal Transfer,3,3,3,0,1126
+1235,Jordan Chambers,Female,Housekeeping,Housekeeping Staff,Day,2020-09-20,,No,40400,Agency/Contract Staffing,8,1,2,1,
+1236,Samantha Bentley,Female,Billing/Records,Records Clerk,Day,2024-09-01,2025-03-19,Yes,40200,Agency/Contract Staffing,6,3,2,0,1212
+1237,Allison Henson,Female,Emergency,Paramedic,Evening,2021-04-15,,No,84300,Agency/Contract Staffing,5,1,4,0,1292
+1238,Connie Brown,Female,Pharmacy,Pharmacy Technician,Day,2024-01-02,2026-05-06,Yes,109900,Agency/Contract Staffing,14,2,3,0,1122
+1239,Elizabeth Ortiz,Female,Nursing,Nurse Practitioner,Night,2025-07-30,2026-06-13,Yes,87100,Referral,14,2,4,0,1279
+1240,Elizabeth Vasquez,Female,Pharmacy,Pharmacist,Day,2021-06-23,2025-10-11,Yes,99500,Agency/Contract Staffing,12,4,5,0,1122
+1241,Chad Chavez,Male,Pharmacy,Pharmacy Technician,Day,2021-03-21,,No,108500,Job Board,13,2,3,0,
+1242,Theresa Barnes,Female,Housekeeping,Housekeeping Staff,Night,2024-08-28,,No,35000,Agency/Contract Staffing,7,4,3,0,1235
+1243,Jason Garcia,Male,Radiology,Radiologic Technologist,Day,2025-02-01,2026-05-17,Yes,60300,Agency/Contract Staffing,7,1,5,1,1267
+1244,Trevor Johnson,Male,Emergency,ER Physician,Night,2023-07-28,,No,99700,Internal Transfer,16,3,3,1,1292
+1245,Trevor Foley,Male,Lab/Pathology,Pathologist,Evening,2022-11-10,,No,74400,Agency/Contract Staffing,8,4,2,0,1117
+1246,Kimberly Levine,Female,Nursing,Registered Nurse,Evening,2021-03-26,,No,88300,Referral,2,1,3,0,1294
+1247,Cheryl Martinez,Female,Nursing,Registered Nurse,Night,2022-10-15,,No,81400,Referral,13,1,3,1,1144
+1248,Matthew May,Male,Nursing,Charge Nurse,Evening,2025-09-21,,No,93400,Referral,0,3,3,0,1294
+1249,Rachel Sanchez,Female,Administration,HR Coordinator,Night,2024-03-20,,No,77300,Referral,12,3,4,0,1010
+1250,Andrea Hubbard,Female,Radiology,Radiologist,Day,2021-05-23,2025-08-17,Yes,76100,Nursing School Partnership,5,1,5,0,1267
+1251,Sergio Murphy,Male,Nursing,Registered Nurse,Day,2021-11-17,2025-12-18,Yes,73400,Nursing School Partnership,11,2,3,2,1114
+1252,April Garrison,Female,Nursing,Charge Nurse,Day,2021-07-10,,No,69500,Agency/Contract Staffing,13,5,4,0,1311
+1253,David Thompson,Male,Billing/Records,Medical Biller,Night,2021-07-03,2022-09-16,Yes,51100,Campus Recruiting,17,3,3,0,1212
+1254,Alexis Tyler,Female,Lab/Pathology,Lab Technologist,Evening,2024-08-07,,No,71500,Referral,29,2,4,0,1214
+1255,Christopher Williams,Male,Nursing,LPN,Day,2022-01-24,,No,82300,Nursing School Partnership,4,1,5,0,1114
+1256,Patrick Alvarez,Male,Nursing,Nursing Assistant,Night,2025-01-31,,No,93600,Job Board,17,3,2,1,1114
+1257,Ashley Gordon,Female,Administration,Office Administrator,Evening,2025-04-20,2026-03-06,Yes,68200,Agency/Contract Staffing,7,5,3,1,1010
+1258,Rachel Camacho,Female,Radiology,Radiologic Technologist,Day,2026-04-22,2026-06-16,Yes,68100,Job Board,11,3,3,0,1283
+1259,Victor Brown,Male,Housekeeping,Housekeeping Staff,Day,2023-10-06,,No,36700,Referral,0,4,2,0,1003
+1260,Melissa Henry,Female,Emergency,Paramedic,Night,2023-07-05,,No,101300,Referral,11,5,2,1,1339
+1261,Angela Franklin,Female,Administration,Office Administrator,Day,2026-02-03,,No,57000,Referral,17,2,2,0,1010
+1262,Madeline Kelley,Female,Nursing,Registered Nurse,Night,2021-01-11,,No,60400,Referral,22,2,3,0,
+1263,Kerry Chavez DDS,Female,Pharmacy,Pharmacy Technician,Night,2022-08-03,2024-07-12,Yes,119800,Referral,0,2,5,0,1122
+1264,Sarah Curtis,Female,Nursing,LPN,Day,2021-03-26,,No,75200,Internal Transfer,7,4,4,0,1262
+1265,Daniel Hayes,Male,Nursing,LPN,Night,2025-04-01,,No,81700,Referral,7,2,4,0,1279
+1266,Jesse Perry,Male,Nursing,Nurse Practitioner,Day,2022-01-03,,No,82500,Job Board,9,5,4,2,1262
+1267,Maurice Brooks,Male,Radiology,MRI Technologist,Day,2021-03-17,,No,68300,Nursing School Partnership,4,3,3,0,
+1268,Andrea Decker,Female,Nursing,LPN,Evening,2021-07-21,,No,95000,Agency/Contract Staffing,11,2,3,1,1262
+1269,Parker Cain,Male,Housekeeping,Housekeeping Staff,Evening,2021-03-13,,No,35900,Internal Transfer,8,2,3,0,1235
+1270,Kristina Rivera,Female,Physical Therapy,Physical Therapist,Evening,2023-12-22,2024-03-18,Yes,79900,Job Board,17,4,4,0,1190
+1271,Maurice Christensen,Male,Pharmacy,Pharmacist,Evening,2021-05-15,2025-12-13,Yes,115500,Referral,19,2,4,0,1241
+1272,Tracy Burke,Female,Nursing,Charge Nurse,Evening,2025-11-04,,No,87100,Internal Transfer,15,1,3,1,1262
+1273,Daniel Douglas,Male,Emergency,Paramedic,Day,2022-09-30,,No,107700,Referral,0,4,4,0,1339
+1274,Sarah Richardson,Female,Nursing,Nursing Assistant,Night,2021-12-25,,No,85700,Job Board,13,1,5,1,1134
+1275,Renee Bruce,Female,Nursing,Nurse Practitioner,Night,2025-03-18,,No,67700,Internal Transfer,18,5,2,0,1144
+1276,Lisa Day,Female,Nursing,Nurse Practitioner,Day,2026-06-25,,No,63100,Campus Recruiting,6,3,3,0,1279
+1277,Ronald Adams,Male,Emergency,ER Nurse,Evening,2020-10-17,,No,84700,Referral,0,4,5,1,
+1278,Eric Morgan,Male,Emergency,ER Technician,Day,2021-09-20,2021-11-30,Yes,103900,Nursing School Partnership,3,2,3,1,1339
+1279,Keith Morales,Male,Nursing,Registered Nurse,Day,2020-09-03,2024-02-01,Yes,73100,Referral,1,1,4,1,
+1280,Andre Reese,Male,Administration,Executive Assistant,Night,2021-06-27,,No,80600,Referral,16,2,5,0,1010
+1281,Glen Wood,Male,Administration,Office Administrator,Day,2021-12-05,,No,67900,Referral,10,4,3,0,1010
+1282,Keith Miller,Male,IT/Facilities,Systems Analyst,Evening,2024-12-18,,No,51000,Referral,10,1,3,0,1126
+1283,Luke Craig,Male,Radiology,Radiologist,Day,2020-12-14,,No,70400,Agency/Contract Staffing,12,3,5,0,
+1284,Karla Ramos,Female,Radiology,MRI Technologist,Day,2022-04-08,,No,60000,Job Board,8,1,4,1,1267
+1285,Brian Jordan,Male,Lab/Pathology,Lab Technologist,Night,2022-04-11,,No,80400,Job Board,5,4,4,0,1117
+1286,Katelyn Estrada,Female,Physical Therapy,Physical Therapist,Evening,2022-05-03,,No,88000,Internal Transfer,4,1,5,0,1190
+1287,Kyle Smith,Male,Billing/Records,Medical Biller,Day,2020-11-28,,No,54800,Job Board,1,4,3,1,
+1288,Chad Scott,Male,Emergency,ER Nurse,Day,2022-06-12,,No,89800,Nursing School Partnership,13,1,4,0,1292
+1289,Paul Thompson,Male,Nursing,Charge Nurse,Day,2022-08-09,2024-04-15,Yes,86500,Nursing School Partnership,2,1,5,0,1294
+1290,Jonathan Whitaker,Male,IT/Facilities,Facilities Technician,Day,2022-12-01,,No,74400,Nursing School Partnership,13,2,4,0,1044
+1291,Scott Williams,Male,Physical Therapy,PT Assistant,Evening,2025-06-21,,No,76600,Referral,9,3,5,0,1089
+1292,Shannon Johnston,Female,Emergency,ER Technician,Night,2020-10-01,,No,108800,Agency/Contract Staffing,15,4,4,0,
+1293,Jennifer Wilson,Female,Nursing,Charge Nurse,Night,2024-01-28,,No,77000,Job Board,19,5,5,1,1311
+1294,Robert Montgomery,Male,Nursing,Nursing Assistant,Day,2020-10-05,,No,78400,Agency/Contract Staffing,5,2,5,0,
+1295,Brandon Richard,Male,Administration,Office Administrator,Day,2025-08-17,,No,60900,Nursing School Partnership,6,1,4,0,1010
+1296,Kelly Foster,Female,Nursing,LPN,Evening,2022-02-04,2025-05-20,Yes,65700,Job Board,16,1,3,0,1114
+1297,Felicia Jackson,Female,IT/Facilities,Systems Analyst,Day,2022-07-01,,No,76100,Referral,2,5,1,1,1044
+1298,Jordan Bullock,Male,Radiology,Radiologic Technologist,Evening,2023-09-12,,No,58300,Agency/Contract Staffing,8,3,4,1,1267
+1299,Robert Briggs,Male,IT/Facilities,Facilities Technician,Day,2022-09-25,,No,77100,Nursing School Partnership,19,5,3,0,1126
+1300,Craig Morrison,Male,Lab/Pathology,Pathologist,Evening,2022-01-20,,No,57700,Job Board,24,3,5,0,1117
+1301,Christopher Mejia,Male,Nursing,Nursing Assistant,Night,2025-03-12,2025-04-24,Yes,88200,Campus Recruiting,21,5,3,0,1311
+1302,Peter Cole,Male,Billing/Records,Records Clerk,Night,2023-08-08,,No,50500,Job Board,0,2,3,1,1287
+1303,Madison Weber,Female,Physical Therapy,PT Assistant,Evening,2026-03-06,2026-05-08,Yes,89400,Campus Recruiting,0,5,3,0,1190
+1304,Brittany Jones,Female,Billing/Records,Records Clerk,Evening,2025-10-26,,No,41800,Referral,12,3,3,0,1287
+1305,Donald Brown,Male,Radiology,Radiologist,Evening,2023-04-16,,No,60300,Internal Transfer,3,2,4,1,1283
+1306,Jodi Brown,Female,Emergency,ER Physician,Day,2023-09-06,,No,83400,Referral,0,4,3,1,1339
+1307,Sean Wyatt,Male,Radiology,Radiologist,Night,2025-08-16,2025-12-05,Yes,59900,Job Board,8,4,3,1,1267
+1308,Julie Spencer,Female,Housekeeping,Housekeeping Staff,Day,2024-04-28,,No,36300,Job Board,2,1,2,0,1235
+1309,Jerry Pacheco,Male,Physical Therapy,Physical Therapist,Day,2025-05-21,2026-01-02,Yes,85700,Referral,11,2,4,0,1190
+1310,Karen Hernandez,Female,Nursing,Registered Nurse,Day,2024-07-18,,No,85500,Job Board,4,2,3,1,1134
+1311,Stephanie Cooper,Female,Nursing,LPN,Day,2021-01-03,2023-02-22,Yes,94500,Referral,5,2,4,0,
+1312,Christopher Wright,Male,Emergency,Paramedic,Night,2024-12-02,2025-05-07,Yes,91700,Agency/Contract Staffing,17,1,2,0,1339
+1313,Kelly Moore,Female,Radiology,Radiologic Technologist,Day,2023-04-06,,No,58300,Agency/Contract Staffing,9,4,4,0,1267
+1314,Jennifer Morgan,Female,Emergency,ER Nurse,Evening,2022-11-15,,No,77700,Agency/Contract Staffing,10,5,3,0,1277
+1315,Maria Jones,Female,Emergency,ER Technician,Day,2024-03-22,2024-05-04,Yes,87300,Referral,1,2,4,0,1277
+1316,Duane Cummings,Male,Physical Therapy,PT Assistant,Day,2021-03-15,,No,77900,Referral,8,3,4,0,1089
+1317,Shelley Cook,Female,Radiology,Radiologic Technologist,Night,2024-07-28,,No,85300,Campus Recruiting,11,3,4,0,1267
+1318,Gregory Ponce,Male,IT/Facilities,IT Support Specialist,Day,2024-02-18,,No,75900,Referral,2,5,3,1,1126
+1319,Linda Hurley,Female,Nursing,LPN,Day,2024-10-28,,No,89200,Nursing School Partnership,19,4,4,0,1311
+1320,Rickey Li,Male,Nursing,Registered Nurse,Night,2022-06-29,,No,63600,Campus Recruiting,20,5,4,0,1294
+1321,Nancy Jennings,Female,Pharmacy,Pharmacist,Evening,2024-08-27,,No,113800,Nursing School Partnership,4,4,2,0,1122
+1322,Jessica Cox,Female,Billing/Records,Billing Supervisor,Night,2023-10-17,,No,49700,Nursing School Partnership,9,2,4,0,1212
+1323,Cindy Meza,Female,IT/Facilities,Systems Analyst,Night,2022-10-24,,No,50500,Agency/Contract Staffing,10,2,4,0,1044
+1324,Chad Jones,Male,Nursing,LPN,Day,2023-07-21,,No,69700,Job Board,0,4,3,0,1294
+1325,Patricia Conley,Female,Nursing,LPN,Day,2025-09-13,,No,77400,Referral,8,1,2,0,1134
+1326,George Miranda,Male,IT/Facilities,Systems Analyst,Night,2025-12-08,2026-03-05,Yes,85600,Agency/Contract Staffing,6,4,5,0,1126
+1327,Christopher Guerra,Male,Emergency,ER Technician,Evening,2021-06-03,,No,85400,Job Board,5,1,4,0,1292
+1328,Christopher Kim,Male,Lab/Pathology,Lab Technologist,Evening,2025-04-05,,No,60700,Referral,14,4,2,0,1214
+1329,Cynthia Wallace,Female,Nursing,Charge Nurse,Evening,2023-02-06,,No,74500,Referral,15,5,2,1,1311
+1330,Joann Ferguson,Female,Billing/Records,Medical Biller,Evening,2022-05-06,,No,53900,Referral,12,5,4,1,1212
+1331,Julie Conley,Female,Administration,HR Manager,Day,2022-06-29,,No,69200,Agency/Contract Staffing,2,3,4,0,1010
+1332,Victoria Murray,Female,Nursing,Nurse Practitioner,Night,2022-11-04,,No,64700,Nursing School Partnership,6,5,3,1,1114
+1333,Joseph Burch,Male,Nursing,Nursing Assistant,Evening,2022-04-30,,No,92200,Agency/Contract Staffing,13,2,5,0,1294
+1334,Brenda Wright,Female,Administration,Office Administrator,Evening,2025-07-14,,No,82700,Nursing School Partnership,6,5,3,1,1010
+1335,Justin Garcia,Male,Nursing,Charge Nurse,Day,2024-06-25,2024-09-26,Yes,69300,Referral,0,2,5,0,1134
+1336,Dominique Hines,Female,Nursing,Nursing Assistant,Day,2025-09-16,2026-03-12,Yes,63600,Campus Recruiting,15,2,4,0,1114
+1337,Brittany Kim,Female,Physical Therapy,PT Assistant,Day,2022-04-10,2024-11-02,Yes,84000,Agency/Contract Staffing,1,5,2,1,1190
+1338,Joanne Bailey,Female,Physical Therapy,PT Assistant,Night,2026-04-24,2026-06-15,Yes,81100,Nursing School Partnership,17,3,3,2,1190
+1339,Kathryn Young,Female,Emergency,ER Technician,Day,2020-10-18,,No,72200,Job Board,0,3,1,0,
+1340,Alyssa Galvan,Female,Nursing,Nurse Practitioner,Evening,2026-08-08,,No,81900,Agency/Contract Staffing,11,5,4,0,1134
+1341,Rick Taylor,Male,Billing/Records,Billing Supervisor,Day,2025-09-01,,No,45100,Nursing School Partnership,4,5,3,0,1212
+1342,Melissa Taylor,Female,Emergency,Paramedic,Day,2022-05-11,2026-01-15,Yes,88900,Agency/Contract Staffing,19,1,2,0,1292
+1343,Aaron Miller,Male,Billing/Records,Billing Supervisor,Night,2024-11-13,2026-05-26,Yes,51500,Job Board,14,1,3,0,1287
+1344,Kimberly Acosta,Female,Lab/Pathology,Pathologist,Day,2022-03-04,,No,99600,Referral,11,1,3,2,1214
+1345,Dwayne Turner,Male,Pharmacy,Pharmacist,Evening,2023-10-20,,No,112600,Agency/Contract Staffing,15,4,5,0,1241
+1346,Rebecca Bryant,Female,Administration,HR Coordinator,Evening,2020-12-03,2025-08-11,Yes,63400,Referral,7,1,3,0,1010
+1347,Linda Smith,Female,Physical Therapy,PT Assistant,Day,2021-04-20,2025-06-03,Yes,75200,Agency/Contract Staffing,10,1,3,0,1190
+1348,Charles Patterson,Male,Housekeeping,Housekeeping Staff,Evening,2023-09-23,,No,41300,Referral,16,3,4,0,1003
+1349,Jennifer Beck,Female,Emergency,ER Nurse,Evening,2024-04-28,,No,71100,Nursing School Partnership,15,4,4,1,1277
