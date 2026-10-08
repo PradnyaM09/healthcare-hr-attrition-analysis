@@ -45,6 +45,7 @@ SELECT department,
 FROM healthcare_hr_data
 GROUP BY department;
 ```
+• ![Healthcare HR Attrition Dashboard]
 <img width="1111" height="625" alt="HR healthcare data attrition report" src="https://github.com/user-attachments/assets/68c054f3-727a-4731-9e8d-eb4e4ef22433" />
 
 ## Recommendations
